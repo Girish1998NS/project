@@ -141,7 +141,6 @@
   ],
   "fn": "openssl-1.1.1t-h2bbff1b_0.conda",
   "legacy_bz2_md5": "7a9bc26e467d379e3ca8bae79709c450",
-  "legacy_bz2_size": 6077519,
   "license": "OpenSSL",
   "license_family": "Apache",
   "link": {
@@ -159,7 +158,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:\\\\b\\\\abs_6cfpa_xmj1\\\\croot\\\\openssl_1676331029315\\\\_h_env",
         "sha256": "12b2c6bf3392567b00a865dc145787c6d93fcbe079dc6809ebfb34104302fe8d",
-        "sha256_in_prefix": "7695b3f893a7540aa503373cc32b495871237a6d883d0e53bd1dc684d3e7cd25",
+        "sha256_in_prefix": "7bf63020ac544011c67f516581cd98a79de415b83302ba129cdb3c16aa384eeb",
         "size_in_bytes": 7104
       },
       {
@@ -1052,7 +1051,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "openssl",
   "sha256": "f206bf482b6862691e73a6c8a43ba7f7f47a28f959c386b0abaa27e602789a61",
   "size": 5757670,
   "subdir": "win-64",
