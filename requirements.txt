@@ -2,6 +2,12 @@ pandas
 numpy 
 seaborn
 DateTime
+matplotlib
+scikit-learn
+dill
+xgboost
+catboost
+flask
 
 
--e .
+#-e .
